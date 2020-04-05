@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+---
+title: Why Blog
+layout: post
+---
 
-You can use the [editor on GitHub](https://github.com/zhangyongqin0335/zhangyongqin0335.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 我的博客
+以前的博客[http://blog.csdn.net/ysu108](http://blog.csdn.net/ysu108) 在CSDN上,有广告，很烦人。
+很多CSDN上的博文没有整理过来，很多上学时候写的质量不高，还有很多毕业时候面试算法方面的，虽然搜索点击的多，但感觉不大实用。
+中间发现用思维导图很方便，没有整理成文字。但是最后发现还是文字的比较容易理清思路，以后逐渐移到这github。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangyongqin0335/zhangyongqin0335.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我博客的源码托管在我的[Github](https://github.com/wangzhenyagit)上，如果有任何改进意见，欢迎讨论。
